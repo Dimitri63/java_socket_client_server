@@ -12,5 +12,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="socket-lib" />
+    <orderEntry type="library" name="java" level="project" />
+    <orderEntry type="library" name="socket-lib" level="project" />
   </component>
 </module>
